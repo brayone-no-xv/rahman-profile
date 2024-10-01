@@ -1,10 +1,10 @@
 # ✨ About Me
 
 # 🌐 Tech Stack
-![Boostrap](https://img.shields.io/badge/Bootstrap-purple)
+![Boostrap](https://img.shields.io/github/issues-pr/reddy-hari/usuals)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-cyan)
-![alt_text](https://img.shields.io/badge/:badgeContent?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=%3Cobject%3E
+![HTML](https://img.shields.io/badge/:badgeContent?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600&link=%3Cobject%3E
 )
 
 
