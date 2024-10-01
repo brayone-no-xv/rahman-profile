@@ -1,7 +1,10 @@
 # ✨ About Me
 
 # 🌐 Tech Stack
-![alt_text](https://img.shields.io/badge/Bootstrap-blue)
+![alt_text](https://img.shields.io/badge/Bootstrap-#7952B3)
+![alt_text](https://img.shields.io/badge/Javascript-#F7DF1E)
+![alt_text](https://img.shields.io/badge/CSS3-#1572B6)
+![alt_text](https://img.shields.io/badge/HTML5-#E34F26)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
